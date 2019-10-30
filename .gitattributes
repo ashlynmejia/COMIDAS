@@ -7,7 +7,6 @@
   
   <body>
     <h1>APRENDE A COMER SALUDABLE!!</h1>
-  </body>
 <table border="1px">
   <thead>
     <tr>
@@ -85,6 +84,8 @@
 
     </tr>
   </tbody>
+  </body>
+
 </table>
 
 </html>
