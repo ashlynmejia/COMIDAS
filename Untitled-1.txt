@@ -1,0 +1,90 @@
+<html>
+  <head>
+    <title> Titulo de pagina </title>
+  </head>
+  <a href=""></a>
+  <body>
+    <h1>APRENDE A COMER SALUDABLE!!</h1>
+<table border="1px">
+  <thead>
+    <tr>
+      <th>CHATARRA</th>
+      <th>SALUDABLE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pizzas</td>
+	<td>Manzanas</td>
+     <tr>
+  <tbody>
+    </thead>
+      <td>Hamburguesas</td>
+      <td>Fresas</td>
+    </tr>
+  </tbody>
+	</thead>
+  <tbody>
+    <tr>
+      <td>Frituras</td>
+      <td>Brocoli</td>
+    </tr>
+  </tbody>
+</thead>
+  <tbody>
+    <tr>
+      <td>Dulces</td>
+      <td>Zanahoria</td>
+    </tr>
+  </tbody>
+</thead>
+  <tbody>
+    <tr>
+      <td>Chocolates</td>
+      <td>Cereales</td>
+    </tr>
+  </tbody>
+</thead>
+  <tbody>
+    <tr>
+      <td>Pastelillos Empaquetado</td>
+      <td>Kiwi</td>
+    </tr>
+  </tbody>
+</thead>
+  <tbody>
+    <tr>
+      <td>Hot Dogs</td>
+      <td>Papaya</td>
+    </tr>
+  </tbody>
+</thead>
+  <tbody>
+    <tr>
+      <td>Bebidas Azucaradas</td>
+      <td>Pescado</td>
+    </tr>
+  </tbody>
+</thead>
+  <tbody>
+    <tr>
+      <td>Donas</td>
+      <td>Aguacate</td>
+    </tr>
+  </tbody>
+</thead>
+  <tbody>
+    <tr>
+      <td>Macarrones</td>
+      <td>Naranjas</td>
+    </tr>
+  </tbody>
+
+    </tr>
+  </tbody>
+  </body>
+
+</table>
+
+
+</html>
