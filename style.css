@@ -1,4 +1,21 @@
 h1{
-    color: #68dd78;
+    color: #7b6aca;
     font-weight: bold;
+   
+}
+
+.center {
+    text-align: center;
+}
+
+body{
+    background-color:pink;
+}
+
+img{
+    width: 350px;
+}
+
+p{
+    font-style: italic;
 }
