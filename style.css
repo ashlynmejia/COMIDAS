@@ -19,3 +19,11 @@ img{
 p{
     font-style: italic;
 }
+
+a:hover{ 
+    color: rgb(204, 30, 181)
+}
+
+img:hover{
+    width: 100px
+}
