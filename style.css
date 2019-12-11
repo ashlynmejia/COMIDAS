@@ -41,3 +41,37 @@ a:hover{
 img:hover{
     width: 100px
 }
+.cuadro1{
+    width: 400px; 
+    height: 400px;
+    border: 40px rgb(0, 0, 0);
+    padding: 5%;
+    background-color: rgba(165, 126, 202, 0.829) ;
+    margin: 5%;
+
+    position: static;
+
+}
+.cuadro2{
+    width: 100px;
+    height: 100px;
+    border: 40px rgb(0, 0, 0);
+    padding: 2%;
+    background-color: rgba(43, 226, 186, 0.801) ;
+    margin: 5%;
+
+    position: fixed;
+    top: 40px
+
+}
+.cuadro3{
+    width:100px;
+    height: 100px;
+    border: 20px rgb(0, 0, 0);
+    padding: 2%;
+    background-color: rgba(64, 226, 43, 0.795) ;
+    margin: 5%;
+    left: 40px;
+    top: 40px;
+
+}
