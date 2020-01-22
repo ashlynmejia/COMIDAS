@@ -23,12 +23,12 @@ body{
 hiper{
     display: inline;
     padding: 40px;
-    margin-bottom:    50px;
+    margin-bottom: 50px;
 }
 
-img{
+/* img{
     width: 350px;
-}
+} */
 
 p{
     font-style: italic;
@@ -38,9 +38,9 @@ a:hover{
     color: rgb(204, 30, 181)
 }
 
-img:hover{
+/* img:hover{
     width: 100px
-}
+} */
 .cuadro1{
     width: 400px; 
     height: 400px;
@@ -75,3 +75,16 @@ img:hover{
     top: 40px;
 
 }
+iframe{
+display: block;
+margin: 25% auto;
+}
+
+img:hover {
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+    transform:rotateZ(-180deg);
+    filter:grayscale(100%);
+}
+
+    
