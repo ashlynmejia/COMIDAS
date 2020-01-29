@@ -86,5 +86,22 @@ img:hover {
     transform:rotateZ(-180deg);
     filter:grayscale(100%);
 }
-
-    
+img{
+    animation-name: miAnimacion;
+    animation-duration: 3000ms;
+    animation-iteration-count: 2;
+    animation-timing-function: linear;
+    animation-delay: 1s;
+    animation-direction: alternate;
+}
+@keyframes miAnimacion{
+    0%{
+        transform: rotateZ(0deg);
+    }
+    10%{
+        transform: rotateZ(-90deg);
+    }
+    100%{
+        transform: rotateZ(90deg);
+        transform: translate(40px,100px);
+    }
